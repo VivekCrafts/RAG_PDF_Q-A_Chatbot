@@ -125,20 +125,3 @@ Response:
 }
 ```
 
----
-
-## 📘 Evaluation Criteria Checklist
-
-| Requirement | Completed |
-|------------|-----------|
-| FastAPI RAG API | ✅ |
-| FAISS Vector Store | ✅ |
-| Embeddings (HuggingFace) | ✅ |
-| RAG Chain with LLM | ✅ |
-| `/ask` endpoint | ✅ |
-| Dockerfile | ✅ |
-| Streamlit UI | ✅ |
-| Clean README | ✅ |
-
----
- 
